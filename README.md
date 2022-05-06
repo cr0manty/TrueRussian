@@ -1,4 +1,6 @@
-# True russian
+# True russian Mac OS
+
+Custom Keyboard Layouts that replace russion flag on Ukrainian for ru-RU Locale. 
 
 # How to install:
 1. run `install.sh` script
